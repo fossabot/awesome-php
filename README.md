@@ -1,4 +1,6 @@
 # Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fneo355%2Fawesome-php.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fneo355%2Fawesome-php?ref=badge_shield)
+
 
 A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
@@ -963,3 +965,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Fantastic PHP-related magazines.*
 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fneo355%2Fawesome-php.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fneo355%2Fawesome-php?ref=badge_large)
